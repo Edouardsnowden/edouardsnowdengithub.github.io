@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fakerphp/faker": "^1.19",
+        "ircmaxell/random-lib": "^1.2"
+    }
+}
